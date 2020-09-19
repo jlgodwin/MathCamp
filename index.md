@@ -41,24 +41,24 @@ Slides and materials will be linked to in the schedule below as they are made av
 * Data manipulation
 
 ## Wednesday
-** Lecture**
+**Lecture**
 * Introduction to probability
 * Integral Calculus
 
-** Lab **
+**Lab**
 * Sampling from an urn
 * Plotting basics
 
 ## Thursday
-** Lecture **
+**Lecture**
  * Random variables, densities, moments
  * Discrete distributions
  * Continuous distributions
-** Lab **
+**Lab**
  * Probability distributions
  * Sampling
  
 ## Friday
-** Lecture **
+**Lecture**
  * Maximum likelihood estimation
 
