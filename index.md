@@ -3,8 +3,8 @@
 
 Typically Math Camp is a 5-day intensive review of algebra, matrix algebra, calculus and probability. In order to provide the same curriculum while avoiding an 8 hour Zoom call, this year we will be uploading lectures. Lectures are intended to be watched outside of synchronous class time. During our Zoom meetings, we will discuss certain topics from lectures, address questions, and work examples together and in small groups. Afternoon labs will be held in person where we will all work through examples together on Zoom in real time (i.e. there is no prep necessary for lab).
 
-**Instructor:** Jessica Godwin, Ph. D. Candidate, Dept. of Statistics
-**TA:** Emily Finchum-Mason, Ph. D. Candidate, Dept. of Public Policy and Management
+  **Instructor:** Jessica Godwin, Ph. D. Candidate, Dept. of Statistics  
+  **TA:** Emily Finchum-Mason, Ph. D. Candidate, Dept. of Public Policy and Management  
 
 ## Schedule
 
