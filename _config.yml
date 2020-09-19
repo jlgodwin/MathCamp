@@ -1,3 +1,7 @@
 title: CSSS Math Camp
 theme: jekyll-theme-minimal
 description: September 21-25, 2020
+
+navigation_header:
+ Home: /
+ 
