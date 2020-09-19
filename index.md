@@ -12,8 +12,8 @@ The daily schedule may vary as we adapt to an online version of Math Camp, but t
 
   **10:00am-10:45am**  Review lectures and practice problems (First day, introduction)  
   **10:45am-11:30am**  Breakout Rooms: Practice problems  
-  **1:30pm-3:00pm**  R labs  
-  **3:00pm-4:00pm**  Additional problem session/office hours (if needed)  
+  **1:30pm-3:00pm**    R labs  
+  **3:00pm-4:00pm**    Additional problem session/office hours (if needed)  
 
 Slides and materials will be linked to in the schedule below as they are made available.
 
