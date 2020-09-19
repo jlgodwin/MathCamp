@@ -1,3 +1,7 @@
+---
+title: Welcome to Math Camp!
+layout: default
+---
 
 ## Welcome to Math Camp!
 
