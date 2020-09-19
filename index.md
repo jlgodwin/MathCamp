@@ -53,7 +53,8 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Lecture**
  * Random variables, densities, moments
  * Discrete distributions
- * Continuous distributions
+ * Continuous distributions 
+ 
 **Lab**
  * Probability distributions
  * Sampling
