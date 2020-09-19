@@ -10,14 +10,14 @@ Typically Math Camp is a 5-day intensive review of algebra, matrix algebra, calc
 
 The daily schedule may vary as we adapt to an online version of Math Camp, but the tentative synchronous learning schedule is as follows:
 
-**10:00am-10:45am**  Review lectures and practice problems (First day, introduction)
-**10:45am-11:30am**  Breakout Rooms: Practice problems
-**1:30pm-3:00pm**  R labs
-**3:00pm-4:00pm**  Additional problem session/office hours (if needed)
+| **10:00am-10:45am**  Review lectures and practice problems (First day, introduction)
+| **10:45am-11:30am**  Breakout Rooms: Practice problems
+| **1:30pm-3:00pm**  R labs
+| **3:00pm-4:00pm**  Additional problem session/office hours (if needed)
 
 Slides and materials will be linked to in the schedule below as they are made available.
 
-### Monday
+## Monday
 **Lecture**
  * Algebra
  * Functions
@@ -26,7 +26,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  * Intro to R, Rstudio, R Markdown
  * R as a calculator
 
-### Tuesday
+## Tuesday
 **Lecture**
  * Matrix Algebra
  * Differential calculus
@@ -36,7 +36,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 * Data I/O
 * Data manipulation
 
-### Wednesday
+## Wednesday
 ** Lecture**
 * Introduction to probability
 * Integral Calculus
@@ -45,7 +45,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 * Sampling from an urn
 * Plotting basics
 
-### Thursday
+## Thursday
 ** Lecture **
  * Random variables, densities, moments
  * Discrete distributions
@@ -54,7 +54,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  * Probability distributions
  * Sampling
  
-### Friday
+## Friday
 ** Lecture **
  * Maximum likelihood estimation
 
