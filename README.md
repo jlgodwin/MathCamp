@@ -1,1 +1,1 @@
-# MathCamp
+# Math Camp
