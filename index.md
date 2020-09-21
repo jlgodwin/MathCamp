@@ -27,7 +27,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture1_20200921.pdf) \| [Slides + Audio](https://washington.zoom.us/rec/share/HxmHkU5xjizORXgxxWlQMklhTiZwpBS3x03l3salzbu1NUJG2LQramibL-47ayOG.PWT7sDgR-TEf0qV2?startTime=1600665456000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset1.pdf)
  
 **Lab**
- * Intro to R, Rstudio, R Markdown
+ * Intro to R, Rstudio, and R Markdown
  * R as a calculator
  * [Lab](https://jlgodwin.github.io/MathCamp/Labs/Rlab1.html) \| [R Markdown](https://jlgodwin.github.io/MathCamp/Labs/Rlab1.Rmd) \| [R script](https://jlgodwin.github.io/MathCamp/Labs/Rlab1.R) 
 
