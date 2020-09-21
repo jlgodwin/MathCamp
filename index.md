@@ -29,6 +29,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Lab**
  * Intro to R, Rstudio, R Markdown
  * R as a calculator
+ * [Lab](https://jlgodwin.github.io/MathCamp/Labs/Rlab1.html) \| [R Markdown](https://jlgodwin.github.io/MathCamp/Labs/Rlab1.Rmd) \| [R script](https://jlgodwin.github.io/MathCamp/Labs/Rlab1.R) 
 
 ## Tuesday
 **Lecture**
