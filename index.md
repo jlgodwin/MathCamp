@@ -23,8 +23,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 ## Monday
 **Lecture**
- * Algebra
- * Functions
+ * Algebra, Functions, Limits
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture1_20200921.pdf) \| [Slides + Audio](https://washington.zoom.us/rec/share/HxmHkU5xjizORXgxxWlQMklhTiZwpBS3x03l3salzbu1NUJG2LQramibL-47ayOG.PWT7sDgR-TEf0qV2?startTime=1600665456000)
  
 **Lab**
@@ -34,6 +33,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 ## Tuesday
 **Lecture**
  * Matrix Algebra
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture2.pdf)
  * Differential calculus
  
 **Lab**
