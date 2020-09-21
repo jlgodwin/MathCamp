@@ -36,6 +36,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  * Matrix Algebra
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture2.pdf) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset2.pdf)
  * Differential calculus
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture3.pdf)
  
 **Lab**
 * Matrices & Dataframes in R
