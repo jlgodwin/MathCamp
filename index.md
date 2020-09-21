@@ -25,7 +25,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Lecture**
  * Algebra
  * Functions
- * [Slides](jlgodwin.github.io/MathCamp/Lectures/Lecture1_20200921.pdf)
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture1_20200921.pdf)
  
 **Lab**
  * Intro to R, Rstudio, R Markdown
