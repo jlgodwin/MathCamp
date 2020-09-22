@@ -43,7 +43,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 * Matrices & Dataframes in R
 * Data I/O
 * Data manipulation
-* [Lab](https://jlgodwin.github.io/MathCamp/Labs/Rlab2.html) \| [.Rmd]\(https://jlgodwin.github.io/MathCamp/Labs/Rlab2.Rmd) \| [Seattle Pets Licenses.csv](https://jlgodwin.github.io/MathCamp/Labs/Seattle_Pet_Licenses.csv) \| [caffeine.csv](https://jlgodwin.github.io/MathCamp/Labs/caffeine.csv)
+* [Lab](https://jlgodwin.github.io/MathCamp/Labs/Rlab2.html) \| [Rmd]\(https://jlgodwin.github.io/MathCamp/Labs/Rlab2.Rmd) \| [Seattle Pets Licenses.csv](https://jlgodwin.github.io/MathCamp/Labs/Seattle_Pet_Licenses.csv) \| [caffeine.csv](https://jlgodwin.github.io/MathCamp/Labs/caffeine.csv)
 
 ## Wednesday
 **Lecture**
