@@ -24,7 +24,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 ## Monday
 **Lecture**
  * Algebra, Functions, Limits
- * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture1_20200921.pdf) \| [Slides + Audio](https://washington.zoom.us/rec/share/HxmHkU5xjizORXgxxWlQMklhTiZwpBS3x03l3salzbu1NUJG2LQramibL-47ayOG.PWT7sDgR-TEf0qV2?startTime=1600665456000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset1.pdf)
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture1_20200921.pdf) \| [Slides + Audio](https://washington.zoom.us/rec/share/HxmHkU5xjizORXgxxWlQMklhTiZwpBS3x03l3salzbu1NUJG2LQramibL-47ayOG.PWT7sDgR-TEf0qV2?startTime=1600665456000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset1.pdf) \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/solutions1.pdf)
  
 **Lab**
  * Intro to R, Rstudio, and R Markdown
@@ -37,7 +37,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture2.pdf) \| [Slides + Audio](https://washington.zoom.us/rec/share/YBGP0Ne3CYjZYgYxBgnxz5ww39jh43sByWjUcfXJBvZuhV32hXeEjUhhqysYMlgS.MoWItClaoR4jihen?startTime=1600727899000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset2.pdf)
  * Differential calculus
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture3.pdf) \| [Slides + Audio](
- https://washington.zoom.us/rec/share/rskeDKGYdbRzQ8-ZV7ZimbPeAzjMNjSwChMd2Uv73-4zyFr_R09hW45AgjFgqiz8.GgznZ0uFH4kDIEHw?startTime=1600732333000)
+ https://washington.zoom.us/rec/share/rskeDKGYdbRzQ8-ZV7ZimbPeAzjMNjSwChMd2Uv73-4zyFr_R09hW45AgjFgqiz8.GgznZ0uFH4kDIEHw?startTime=1600732333000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset3.pdf)
  
 **Lab**
 * Matrices & Dataframes in R
