@@ -34,10 +34,10 @@ Slides and materials will be linked to in the schedule below as they are made av
 ## Tuesday
 **Lecture**
  * Matrix Algebra
- * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture2.pdf) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset2.pdf)
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture2.pdf) \| [Slides + Audio](https://washington.zoom.us/rec/share/YBGP0Ne3CYjZYgYxBgnxz5ww39jh43sByWjUcfXJBvZuhV32hXeEjUhhqysYMlgS.MoWItClaoR4jihen?startTime=1600727899000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset2.pdf)
  * Differential calculus
- * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture3.pdf)
- 
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture3.pdf) \| [Slides + Audio](
+ https://washington.zoom.us/rec/share/rskeDKGYdbRzQ8-ZV7ZimbPeAzjMNjSwChMd2Uv73-4zyFr_R09hW45AgjFgqiz8.GgznZ0uFH4kDIEHw?startTime=1600732333000)
 **Lab**
 * Matrices & Dataframes in R
 * Data I/O
