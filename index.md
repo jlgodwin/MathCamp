@@ -38,6 +38,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  * Differential calculus
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture3.pdf) \| [Slides + Audio](
  https://washington.zoom.us/rec/share/rskeDKGYdbRzQ8-ZV7ZimbPeAzjMNjSwChMd2Uv73-4zyFr_R09hW45AgjFgqiz8.GgznZ0uFH4kDIEHw?startTime=1600732333000)
+ 
 **Lab**
 * Matrices & Dataframes in R
 * Data I/O
