@@ -7,7 +7,7 @@ output: html_document
 
 ```{r setup, echo = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = '~/Dropbox/MathCamp/2020/Lecture1/Lab1')
+knitr::opts_knit$set(root.dir = '~/Dropbox/MathCamp/2020/Lab1')
 ```
 
 ## Download R
@@ -98,11 +98,11 @@ Numbers, formulas, and other statistical information can be stored as objects in
 Objects are given names and then are stored in the working environment. Once they are stored, the information remainds "hidden" until referenced again. If you are using RStudio the object names can be seen in the Environment module.\
 
 Notes:
-\begin{itemize}
-\item Object names are case-sensitive
-\item Object names should be meaningful and short (``best practice'')
-\item \texttt{<-} is most common, but \texttt{=} is acceptable
-\end{itemize}
+
+  *  Object names are case-sensitive
+  *  Object names should be meaningful and short (``best practice'')
+  *  `<-` is most common, but `=` is acceptable
+
 
 ```{r, eval = T, echo = T}
 x<-2 #Creates the object "x"
@@ -115,15 +115,15 @@ h<-"practice"   #You can also put strings in an object
 h
 ```
 
-Objects can be numbers, strings, matrices, or even more complicated \texttt{R} objects.\
-Examples of \texttt{R} object types:
-\begin{itemize}
-\item the computing basics: integer, numeric, vector, matrix, list
-\item data.frame
-\item factor
-\item lm object (linear model object)
-\item formula
-\end{itemize}
+Objects can be numbers, strings, matrices, or even more complicated `R` objects.\
+Examples of `R` object types:
+
+  *  the computing basics: integer, numeric, vector, matrix, list
+  *  data.frame
+  *  factor
+  *  lm object (linear model object)
+  *  formula
+
 
 There are handy functions for seeing whether or not an object is of a certain type. These functions are usually important for debugging and making sure you are inputing the proper object type into a function argument.
 
@@ -182,19 +182,29 @@ This is an example of an an R Markdown file that will be used to create a .html 
 While not nicely named, R code can be included in an R Markdown file in what we call a "chunk". Properties of the chunk are adjusted within the curly braces. The cheatsheet under the heading "Embed code with knitr syntax". The most common arguments I use are
 
 
-\begin{itemize}
-\item `echo`: logical argument determining whether the code in the subsequent chunk will be printed in the document created
-\item `eval`: logical argument determining whether or not the code in the subsequent chunk will be evaluated by `{R}$ or just printed in the document.
-\item `fig.cap`: provides a caption for a figure
-\item `fig.align`: aligns figure on "left", "right" or "center"
-\end{itemize}
+
+  *  `echo`: logical argument determining whether the code in the subsequent chunk will be printed in the document created
+  *  `eval`: logical argument determining whether or not the code in the subsequent chunk will be evaluated by `{R}$ or just printed in the document.
+  *  `fig.cap`: provides a caption for a figure
+  *  `fig.align`: aligns figure on "left", "right" or "center"
+
 
 
 ```{r pressure, echo=FALSE, fig.align = 'center', fig.cap = "For example, this figure was created with \tt{echo = FALSE} and \tt{eval = TRUE.}"}
 plot(pressure)
 ```
 
-Chunks allow you to break up your code into smaller pieces that a reader can understand. It's great for writing reports/homeworks so that you can include code immediately followed by its output. 
+Chunks allow you to break up your code into smaller pieces that a reader can understand. It's great for writing reports/homeworks so that you can include code immediately followed by its output.\
+
+#### `purl()`
+
+You can use the function `purl()` on a .Rmd document and it will create a new `.R` file with only the R code in the chunks. Copy and paste the following code line by line into your document to create a document called `Rlab1.R` containing only the `R` code in this document.
+
+```{r, eval = F}
+install.packages('knitr', dependencies = T)
+library(knitr)
+purl('Rlab1.Rmd')
+```
 
 ### Formatting
 
