@@ -8,7 +8,7 @@ output: html_document
 
 ```{r setup, echo = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = '~/Dropbox/MathCamp/2020/Lecture2/Lab2')
+knitr::opts_knit$set(root.dir = '~/Dropbox/MathCamp/2020/Lab2')
 ```
 
 # Vectors in `R`
@@ -167,7 +167,7 @@ There are many ways to use the `matrix()} function to create a matrix.
 
 ```{r}
 ?matrix
-x < -matrix(1:12, nrow=3)
+x <- matrix(1:12, nrow=3)
 x
 ```
 
@@ -367,6 +367,11 @@ rm(data_copy)
 
 data_copy <- read.dta('SeattlePets.dta')
 ```
+
+Recall if you have not installed the `foreign` package you can do so using the following line of code.
+```{r, eval = F}
+install.packages('foreign', dependencies = T)
+```
 ## Other file types
 
 Try Google-ing! Chances are there's a package for the file type of your choice. I've loaded ASCII files, .txt, .xls, .xlsx files among others.
@@ -388,8 +393,11 @@ View variable names.
 ```{r}
 # VARIABLE NAMES
 names(data)
-rownames(data)
 colnames(data)
+```
+
+```{r, eval = F}
+rownames(data)
 ```
 
 Find dimensions.
