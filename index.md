@@ -40,9 +40,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  https://washington.zoom.us/rec/share/rskeDKGYdbRzQ8-ZV7ZimbPeAzjMNjSwChMd2Uv73-4zyFr_R09hW45AgjFgqiz8.GgznZ0uFH4kDIEHw?startTime=1600732333000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset3.pdf)  \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset3solutions.pdf)
  
 **Lab**
-* Matrices & Dataframes in R
-* Data I/O
-* Data manipulation
+* Matrices & Dataframes in R, Data I/O, Data manipulation
 * [Lab](https://jlgodwin.github.io/MathCamp/Labs/RLab2.html) \| [Rmd](https://jlgodwin.github.io/MathCamp/Labs/RLab2.Rmd) \| [Seattle Pets Licenses.csv](https://jlgodwin.github.io/MathCamp/Labs/Seattle_Pet_Licenses.csv) \| [caffeine.csv](https://jlgodwin.github.io/MathCamp/Labs/caffeine.csv)
 
 ## Wednesday
@@ -54,7 +52,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 **Lab**
 * Sampling from an urn
-* Plotting basics
+* Plotting basics [Lab](https://jlgodwin.github.io/Labs/)
 
 ## Thursday
 **Lecture**
