@@ -46,7 +46,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 ## Wednesday
 **Lecture**
 * Introduction to probability
-* [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture5.pdf)  \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset5.pdf)  \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset5solutions.pdf)
+* [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture5.pdf)  \| [Slides + Audio](https://washington.zoom.us/rec/share/ZWPJplMiDDt8Sx3PX3L7DfRxummWI66mq0o3N97E4C6xcm575s4EQgSNBbZV3UM.4ceSqUmzNv7gSBMw?startTime=1600887212000) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset5.pdf)  \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset5solutions.pdf)
 * Integral Calculus
 * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture4.pdf) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset4.pdf)  \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset4solutions.pdf)
 
