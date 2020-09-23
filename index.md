@@ -53,7 +53,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Lab**
 * Sampling from an urn
 * Plotting basics 
-* [Lab](https://jlgodwin.github.io/MathCamp/Labs/Lab_4-Plotting_in_R.pdf) \| [Rmd](https://jlgodwin.github.io/MathCamp/Labs/RLab3.Rmd)
+* [Lab](https://jlgodwin.github.io/MathCamp/Labs/Lab_4-Plotting_in_R.pdf) \| [Rmd](https://jlgodwin.github.io/MathCamp/Labs/Rlab3.Rmd)
 
 ## Thursday
 **Lecture**
