@@ -48,7 +48,9 @@ Slides and materials will be linked to in the schedule below as they are made av
 ## Wednesday
 **Lecture**
 * Introduction to probability
+* [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture5.pdf)
 * Integral Calculus
+* [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture4.pdf)
 
 **Lab**
 * Sampling from an urn
