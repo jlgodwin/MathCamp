@@ -58,7 +58,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 ## Thursday
 **Lecture**
  * Random variables, densities, moments
- * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture6.pdf) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset6.pdf) \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset6solutions.pdf) 
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture6.pdf) \| [Slides + Audio](https://washington.zoom.us/rec/play/knwDKZYDJlRe9_-x7iyxwvPaUKWRRUyZg09fHzbUyHCsOfxmUHwB5CmGgblpkPOCcybbRtrx-98WQ_H-.tUCozDNkdPpuwwjm?continueMode=true) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset6.pdf) \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset6solutions.pdf) 
  * Discrete distributions
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture7.pdf) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset7.pdf) \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset7solutions.pdf) 
  * Continuous distributions 
