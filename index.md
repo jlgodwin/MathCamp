@@ -62,7 +62,7 @@ Slides and materials will be linked to in the schedule below as they are made av
  * Discrete distributions
  * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture7.pdf) \| [Problem Set](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset7.pdf) \| [Solutions](https://jlgodwin.github.io/MathCamp/ProblemSets/problemset7solutions.pdf) 
  * Continuous distributions 
- * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture8.pdf) 
+ * [Slides](https://jlgodwin.github.io/MathCamp/Lectures/Lecture8.pdf)
  
 **Lab**
  * Probability distributions
